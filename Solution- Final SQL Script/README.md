@@ -1,0 +1,57 @@
+# Marketing_Analytics_-DVD_Rental_Store-
+
+
+# Table of contents
+<!--ts-->
+   * [Todo List](#-todo_list)
+   * [Database Overview](#-database-overview)
+   * [Sample of Final Result](#-deom_of_final_result)
+   * [Solution](#-solution)
+<!--te-->
+</br>
+
+
+The marketing team have shared with us a draft of the email they wish to send to the customers.
+
+<b> Screenshot of Email:</b>
+<p align="center">
+<img src="https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/blob/main/image/email_sample.png" width=40% height=20%>
+  </br> </p>
+  
+# Todo List
+
+To help our Marketing Team, 
+  1) we have to find out <b> Top 2 Categories </b> for each customer.
+  2) Then, we need to suggest <b> Top 3 movies </b> in each category or genre.
+  3) Also we need to find - <br>   
+      <i><b> 3.1 For Top 1 category:</b><br>
+       i)   How many total films have they watched in their top category?<br>
+       ii)  How many more films has the customer watched compared to the average DVD Rental Co customer?<br>
+       iii) How does the customer rank in terms of the top X% compared to all other customers in this film category  <br>
+  
+       <b> 3.2 For Top 2 Category:</b><br>
+        i)   How many total films has the customer watched in this category?<br>
+        ii)  What proportion of each customer’s total films watched does this count make?<br></i>
+  
+  4) Finally, Along with the top 2 categories, marketing has also requested <br>
+
+      <i>i)   Top actor film recommendations <br>
+      ii)  Where up to 3 more films are included in the recommendations list as well as<br> 
+      iii) The count of films by the top actor.</i>
+
+<br>
+<br>
+
+# Database Overview
+
+Before we jump into our work, it would be better if have a look at the our data which will be used to complete our task.
+
+<b> Entity-Relationship diagram of dvd_rentals Database</b>
+<p align="center">
+<img src="https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/blob/main/image/dvd_database_ERD.png" width=70% height=70%> </p>
+<br>
+<br>
+
+# Demo of Final Result
+
+# Solution
