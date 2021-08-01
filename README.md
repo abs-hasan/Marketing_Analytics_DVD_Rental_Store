@@ -4,13 +4,13 @@
 # Table of contents
 <!--ts-->
    - [Todo List](#-todo_list)
-   - [Database Overview](#-database-overview)
+   - [Database Overview](#database-overview)
    - [Sample of Final Result](#-final_output)
    - [Solution](#-solution)
 <!--te-->
 </br>
 
-- [Database Overview](#-database-overview)
+- [Database Overview](#database-overview)
 
 The marketing team have shared with us a draft of the email they wish to send to the customers.
 
