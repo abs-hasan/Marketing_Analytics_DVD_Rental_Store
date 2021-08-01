@@ -46,7 +46,7 @@ GO
 <details>
 <summary> 
 2) Create a Movie Table to get movie suggestions </br>
-    Here we will perform a <b>LEFT JOIN</b> to create a new table namly <b> movie_table</b> from </br>
+    Here we will perform a <b>LEFT JOIN</b> to create a new table call <b> movie_table</b> from </br>
      i) <i>inventory</i> table,</br>
     ii) <i>film</i> table,</br>
     iii) <i>film_category</i> table and </br>
