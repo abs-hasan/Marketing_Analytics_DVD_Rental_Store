@@ -10,6 +10,7 @@
 <!--te-->
 </br>
 
+- [Database Overview](#-database-overview)
 
 The marketing team have shared with us a draft of the email they wish to send to the customers.
 
