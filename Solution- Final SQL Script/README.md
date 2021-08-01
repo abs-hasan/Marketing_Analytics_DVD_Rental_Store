@@ -1,5 +1,5 @@
 [![Navigation_Page](https://img.shields.io/badge/Navigation_Page-purple?logo=Github)](https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-)
-[![My Profile](https://img.shields.io/badge/My_Profile-blue?logo=GitHub)](https://github.com/Learner0112)
+[![My Profile](https://img.shields.io/badge/My_Profile-blue?logo=GitHub)](https://github.com/abs-hasan)
 
 <h3 align= "center" > Final SQL Scripting of our Marketing Analytics </h3>
 
