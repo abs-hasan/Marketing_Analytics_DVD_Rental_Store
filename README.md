@@ -1,16 +1,16 @@
 <h2 align="center"> Marketing Analytics of a DVD Rental Store </h2>
 
 
-# Table of contents
-<!--ts-->
-   - [Todo List](#todo_list)
-   - [Database Overview](#database-overview)
-   - [Final Output](#final_output)
-   - [Solution](#solution)
-<!--te-->
+### Table of contents
+
+1) [TODO List](#todo-list)
+2) [Database Overview](#database-overview)
+3) [Final Output](#final-output)
+4) [Solution](#solution)
+
 </br>
 
-- [Database Overview](#database-overview)
+
 
 The marketing team have shared with us a draft of the email they wish to send to the customers.
 
@@ -19,9 +19,11 @@ The marketing team have shared with us a draft of the email they wish to send to
 <img src="https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/blob/main/image/email_sample.png" width=40% height=20%>
   </br> </p>
 
+---
 
-# Todo List
+# TODO List
 
+---
 
 To help our Marketing Team, 
   1) we have to find out <b> Top 2 Categories </b> for each customer.
@@ -45,11 +47,13 @@ To help our Marketing Team,
 <br>
 <br>
 
+---
 
 # Database Overview
 
+---
 
-Before we jump into our work, it would be better if have a look at the our data which will be used to complete our task.
+Before we jump into our work, it would be better if have a look at the data which will be used to complete our task.
 
 <b> Entity-Relationship diagram of dvd_rentals Database</b>
 <p align="center">
@@ -57,13 +61,19 @@ Before we jump into our work, it would be better if have a look at the our data 
 <br>
 <br>
 
+---
 
 # Final Output
+
+---
 
 ![image](https://user-images.githubusercontent.com/49762426/127767808-8072c5a4-53bc-4b22-86e1-98b43cbf3c6b.png)
 
 
+---
 
 # Solution
 
-Let's Have a look at the solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/tree/main/Solution-%20Final%20SQL%20Script)
+---
+
+Let's Have a look at our solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/tree/main/Solution-%20Final%20SQL%20Script)
