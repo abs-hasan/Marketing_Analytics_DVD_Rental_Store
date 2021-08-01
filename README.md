@@ -3,7 +3,7 @@
 
 # Table of contents
 <!--ts-->
-   * [Todo List](#️-todo-list)
+   * [Todo List](#-todo_list)
    * [Database Overview](#-database-overview)
    * [Sample of Final Result](#-deom_of_final_result)
    * [Solution](#-solution)
