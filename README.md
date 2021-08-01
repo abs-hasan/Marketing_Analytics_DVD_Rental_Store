@@ -3,10 +3,10 @@
 
 # Table of contents
 <!--ts-->
-   * [Todo List](#-todo_list)
-   * [Database Overview](#-database-overview)
-   * [Sample of Final Result](#-deom_of_final_result)
-   * [Solution](#-solution)
+   - [Todo List](#-todo_list)
+   - [Database Overview](#-database-overview)
+   - [Sample of Final Result](#-final_output)
+   - [Solution](#-solution)
 <!--te-->
 </br>
 
@@ -52,6 +52,12 @@ Before we jump into our work, it would be better if have a look at the our data 
 <br>
 <br>
 
-# Demo of Final Result
+---
+# A glimpse of our Final Output
+
+![image](https://user-images.githubusercontent.com/49762426/127767808-8072c5a4-53bc-4b22-86e1-98b43cbf3c6b.png)
+
+---
 
 # Solution
+Let's Have a look at the solution: [![solution](https://img.shields.io/badge/Final_SQL_Script-green?)](https://github.com/Learner0112/Marketing_Analytics_-DVD_Rental_Store-/tree/main/Solution-%20Final%20SQL%20Script)
